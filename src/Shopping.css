@@ -1,0 +1,4 @@
+.displayproduct{
+    display: flex;
+    justify-content: space-evenly;
+}
